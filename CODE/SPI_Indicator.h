@@ -13,7 +13,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-#define IND_AMOUNT		1
+#define IND_AMOUNT		5
 
 /* настройки SPI порта*/
 #define SPI_PORT			PORTB
